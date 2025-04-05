@@ -25,6 +25,7 @@ import Foundation
 //Input: accounts = [[2,8,7],[7,1,3],[1,9,5]]
 //Output: 17
 
+// O(nxm) approach
 class Solution {
     func maximumWealth(_ accounts: [[Int]]) -> Int {
         var highest = Int.min
