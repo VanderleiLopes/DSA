@@ -1,0 +1,26 @@
+# Xcode build files and user-specific settings
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Playgrounds specific files
+timeline.xctimeline
+playground.xcworkspace
+*.playground.xcworkspace/
+
+# Documentation, logs, and temporary files
+*.log
+*.tmp
+
+# macOS system files
+.DS_Store
